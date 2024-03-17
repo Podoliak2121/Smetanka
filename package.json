@@ -1,6 +1,6 @@
 {
   "name": "smetanka",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Smetanka",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
   "dependencies": {
     "leleka123456": "1.0.1",
     "kotysuk": "1.0.0",
-    "Kysokkakashku": "1.0.0"
+    "kysokkakashku": "1.0.0",
+    "fasoluna": "1.0.0"
   },
   "bugs": {
     "url": "https://github.com/Podoliak2121/Smetanka/issues"
