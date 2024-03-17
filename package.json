@@ -1,0 +1,23 @@
+{
+  "name": "smetanka",
+  "version": "1.0.0",
+  "description": "Smetanka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Podoliak2121/Smetanka.git"
+  },
+  "dependencies": {
+    "leleka123456": "1.0.1",
+    "kotysuk": "1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Podoliak2121/Smetanka/issues"
+  },
+  "homepage": "https://github.com/Podoliak2121/Smetanka#readme"
+}
